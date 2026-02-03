@@ -1,0 +1,21 @@
+{
+  "name": "Jennifer & Sarki Wedding",
+  "short_name": "Jen & Sarki",
+  "start_url": "./wedding_card.html",
+  "display": "standalone",
+  "background_color": "#051F16",
+  "theme_color": "#0B3124",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192.png?text=J%26S",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512.png?text=J%26S",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
